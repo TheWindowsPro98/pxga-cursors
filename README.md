@@ -1,6 +1,6 @@
 # PXGA Cursors
 
- Your local generic pixel-art cursor scheme #5076038.
+ _Your local generic pixel-art cursor scheme #5076038._
 
  The [SVGI Cursors](https://github.com/TheWindowsPro98/SVGI-Cursors) pack I made was no longer up to standard, so I made these.
 
