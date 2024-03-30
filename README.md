@@ -22,3 +22,11 @@
 
 - install.inf -> Standard index finger link select
 - install_bird.inf -> Think of GTA 5's link select
+- Compatible with all Windows NT versions since 3.1<sup>1</sup> and all Windows 9x releases
+- INF install compatible with all Windows NT versions since 4.0<sup>2</sup>
+
+<hr>
+
+<sup>1</sup>Not tested, earliest tested was NT 3.51
+
+<sup>2</sup>Windows 9x releases may work, but did not for me. YMMV on Windows 9x releases.
