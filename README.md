@@ -10,6 +10,8 @@ The [SVGI Cursors](https://github.com/TheWindowsPro98/SVGI-Cursors) pack I made 
 
 ### For Windows
 
+1. Download & open release archive
+
 1. Right click on "install.inf" and/or "install_bird.inf" and click on "Install"
 
 2. Goto Control Panel\Mouse
@@ -20,7 +22,11 @@ The [SVGI Cursors](https://github.com/TheWindowsPro98/SVGI-Cursors) pack I made 
 
 ### For Linux
 
+1. Download & open release archive
 
+2. Extract folder(s) to ~/.icons
+
+3. Apply cursor theme in your DE/WM of choice's settings
 
 <hr>
 
@@ -28,7 +34,7 @@ The [SVGI Cursors](https://github.com/TheWindowsPro98/SVGI-Cursors) pack I made 
 
 - install.inf -> Standard index finger link select
 - install_bird.inf -> Think of GTA 5's link select
-- Compatible with all Windows NT versions since 3.1<sup>1</sup> and all Windows 9x releases; all Linux versions that support XCursor
+- Compatible with all Windows NT versions since 3.1<sup>1</sup> and all Windows 9x releases; all Linux versions and graphical environments that support XCursor
 - INF install compatible with all Windows NT versions since 4.0<sup>2</sup>
 
 <hr>
