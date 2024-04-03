@@ -114,3 +114,7 @@ ln -s move grab
 ln -s help 5c6cd98b3f3ebcb1f9c7f1c204630408
 ln -s busy watch
 ln -s alias link
+ln -s left-side left_side
+ln -s right-side right_side
+ln -s top-side top_side
+ln -s bottom-side bottom_side
