@@ -1,0 +1,45 @@
+; PXGA Cursors
+; Your local generic pixel-art cursor scheme #5076038.
+; ©TheWindowsPro98 2024
+
+[Version]
+signature="$CHICAGO$"
+
+[DefaultInstall]
+CopyFiles = Scheme.Cur, Scheme.Txt
+
+[DestinationDirs]
+Scheme.Cur = 10,"%CUR_DIR%"
+Scheme.Txt = 10,"%CUR_DIR%"
+
+[Scheme.Cur]
+; installed cursors
+alias.cur
+bottom_side.cur
+circle.cur
+context-menu.cur
+copy.cur
+corner-ne.cur
+corner-nw.cur
+corner-se.cur
+corner-sw.cur
+down-arrow.cur
+eyedropper.cur
+horzresz-split.cur
+left-arrow.cur
+left_side.cur
+no-drop.cur
+normal-flipped.cur
+pirate.cur
+right-arrow.cur
+right_side.cur
+top_side.cur
+vertical-text.cur
+vertresz-split.cur
+wayland-cursor.cur
+x-cursor.cur
+zoom-in.cur
+zoom-out.cur
+
+[Strings]
+CUR_DIR	= "Cursors\PXGA_BNS"
