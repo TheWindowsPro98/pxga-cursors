@@ -39,7 +39,7 @@ ln -s diagresz2 nesw-resize
 ln -s normal left_ptr
 ln -s normal arrow
 ln -s wib progress
-ln -s diagresz1 nw-resize
+ln -s corner-nw nw-resize
 ln -s copy dnd-move
 ln -s horzresz-split split_h
 ln -s handwriting pencil
@@ -56,12 +56,12 @@ ln -s move grabbing
 ln -s horzresz sb_h_double_arrow
 ln -s copy 1081e37283d90000800003c07f3ef6bf
 ln -s normal person
-ln -s diagresz1 top_left_corner
+ln -s corner-nw top_left_corner
 ln -s normal openhand
 ln -s vertresz size_ver # not to be confused with size-ver
 ln -s unavailable forbidden
 ln -s glove pointing_hand
-ln -s diagresz2 sw-resize
+ln -s corner-sw sw-resize
 ln -s move fleur
 ln -s help d9ce0ab605698f320427677b458ad60b
 ln -s vertresz s-resize
@@ -75,12 +75,12 @@ ln -s move closedhand
 ln -s diagresz2 size_bdiag # not to be confused with size-bdiag
 ln -s handwriting draft
 ln -s vertresz-split row-resize
-ln -s diagresz2 top_right_corner
+ln -s corner-ne top_right_corner
 ln -s normal top_left_arrow
 ln -s alias a2a266d0498c3104214a47bd64ab0fc8
 ln -s vertresz-split split_v
 ln -s normal size-ver # not to be confused with size_ver
-ln -s diagresz2 bottom_left_corner
+ln -s corner-sw bottom_left_corner
 ln -s handwriting cell
 ln -s vertresz ns-resize
 ln -s diagresz2 dgn2
@@ -90,7 +90,7 @@ ln -s unavailable not-allowed
 ln -s alias 640fb0e74195791501fd1ed57b41487f
 ln -s normal pin
 ln -s unavailable crossed_circle
-ln -s diagresz1 se-resize
+ln -s corner-se se-resize
 ln -s vertresz sb_v_double_arrow
 ln -s wib work
 ln -s horzresz e-resize
@@ -99,14 +99,14 @@ ln -s alt up-arrow
 ln -s diagresz1 size_fdiag # not to be confused with size-fdiag
 ln -s glove hand1
 ln -s no-drop dnd-no-drop
-ln -s diagresz1 bottom_right_corner
-ln -s diagresz2 ne-resize
+ln -s corner-se bottom_right_corner
+ln -s corner-ne ne-resize
 ln -s text ibeam
 ln -s wib half-busy
 ln -s glove hand2
 ln -s busy wait
 ln -s move all-scroll
-ln -s precision color-picker
+ln -s eyedropper color-picker
 ln -s normal dnd-none
 ln -s text xterm
 ln -s normal default
