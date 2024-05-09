@@ -20,13 +20,13 @@ The [SVGI Cursors](https://github.com/TheWindowsPro98/SVGI-Cursors) pack I made 
  
 5. Select `PXGA Cursors` from the dropdown and apply
 
-6. *Optional*: Run `copy_bonus_curs.bat` _as Administrator_ to install the Bonus cursors (extras from Linux).
+6. *Optional*: Right click on `\bonus\install_bns.inf` and click on `Install` to install the Bonus cursors (extras from Linux).
 
 ### For Linux
 
 1. Download & open release archive
 
-2. Extract folder(s) to `~/.icons`
+2. Extract folder(s) to `~/.icons` or `/usr/share/icons`<sup>3</sup>
 
 3. Apply cursor theme in your DE/WM of choice's settings
 
@@ -44,3 +44,5 @@ The [SVGI Cursors](https://github.com/TheWindowsPro98/SVGI-Cursors) pack I made 
 <sup>1</sup>Not tested, earliest tested was NT 3.51
 
 <sup>2</sup>Windows 9x releases may work, but did not for me. YMMV on Windows 9x releases.
+
+<sup>3</sup>Requires root permissions.
